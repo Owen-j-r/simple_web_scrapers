@@ -1,8 +1,6 @@
 # Simple web scrapers
 
 In this repository is just a few examples of simple webscrapers i have made to exercise some methods of data collection
-==============================================================
-==============================================================
 
 ### Newegg Product Scraper
 
@@ -34,9 +32,6 @@ https://www.newegg.com/crucial-1tb-mx500/p/N82E16820156174
 -------------------------------
 
 ...and so on.
-
-==============================================================
-==============================================================
 
 ### CoinMarketCap Crypto Price Scraper
 
