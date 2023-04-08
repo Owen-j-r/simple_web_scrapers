@@ -46,15 +46,26 @@ Script will display top 10 cryptocurrencies and their prices in console.
 ##### **Example**
 
 "=================================================================
+
 Bitcoin: $45,000.00
+
 Ethereum: $3,000.00
+
 Binance Coin: $400.00
+
 Cardano: $2.00
+
 XRP: $0.90
+
 Solana: $140.00
+
 Polkadot: $30.00
+
 Dogecoin: $0.20
+
 Avalanche: $60.00
+
 Chainlink: $25.00
+
 ================================================================="
 
