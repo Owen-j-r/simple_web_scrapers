@@ -2,7 +2,7 @@
 
 In this repository is just a few examples of simple webscrapers i have made to exercise some methods of data collection
 
-### Newegg Product Scraper
+### 1. Newegg Product Scraper
 
 This script is a simple **Newegg product scraper** that takes a search query as input and returns a list of products with their prices and links, sorted by price.
 
@@ -33,7 +33,7 @@ https://www.newegg.com/crucial-1tb-mx500/p/N82E16820156174
 
 ...and so on.
 
-### CoinMarketCap Crypto Price Scraper
+### 2. CoinMarketCap Crypto Price Scraper
 
 This script fetches the top 10 cryptocurrencies and their prices from CoinMarketCap and displays them in the console.
 
